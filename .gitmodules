@@ -1,0 +1,6 @@
+[submodule "module-app-mf"]
+	path = module-app-mf
+	url = https://github.com/afssx/module-app-mf.git
+[submodule "main-project"]
+	path = main-project
+	url = https://github.com/afssx/main-project.git
